@@ -1,0 +1,661 @@
+﻿Date,Amount,Item,Category
+2024-11-01,326,Coffee,Food Delivery
+2024-11-01,391,Paneer,Grocery
+2024-11-01,319.96,Medicines,Healthcare
+2024-11-01,2507,Dinner Swiggy,Food Delivery
+2024-11-01,13500,Nayna,Maid
+2024-11-02,326,Coffee,Food Delivery
+2024-11-02,1400,Phsiotherapy,Healthcare
+2024-11-02,12673,Electricity - RH,Utilities
+2024-11-02,640,Electricity - OM,Utilities
+2024-11-02,1821.95,Vit K2,Healthcare
+2024-11-02,2743,Dinner Hitchki,Dining Out
+2024-11-02,40,Parking,Car / Travel
+2024-11-02,1411,Pluckk,Grocery
+2024-11-03,326,Coffee,Food Delivery
+2024-11-03,1321,Fish Licious,Grocery
+2024-11-03,687,Fish Licious,Grocery
+2024-11-03,564,Swiggy Instamart,Grocery
+2024-11-03,564,Swiggy Instamart,Grocery
+2024-11-03,500,Istrivala,Utilities
+2024-11-03,249,Game,Entertainment
+2024-11-03,1009,Coffee,Food Delivery
+2024-11-03,591,Fish,Food Delivery
+2024-11-04,47000,Rent,Housing
+2024-11-04,500,Car Wash,Utilities
+2024-11-04,2237,Movie,Entertainment
+2024-11-04,1999,Probiotic,Healthcare
+2024-11-04,326,Coffee,Food Delivery
+2024-11-04,1170,Movie Food,Entertainment
+2024-11-04,649,Aromas,Dining Out
+2024-11-04,3063,Foo,Dining Out
+2024-11-04,60,Parking,Car / Travel
+2024-11-05,356,Coffee,Food Delivery
+2024-11-05,711,Paneer & Eggs,Grocery
+2024-11-05,1500,Mato Mato,Food Delivery
+2024-11-06,356,Coffee,Food Delivery
+2024-11-06,570,Mato Mato,Food Delivery
+2024-11-07,700,Phsiotherapy,Healthcare
+2024-11-08,533,Aromas,Dining Out
+2024-11-08,50,Viviana Parking,Car / Travel
+2024-11-08,1960,Petrol,Car / Travel
+2024-11-08,347,Cou Cou,Dining Out
+2024-11-08,1097,Jio Dinner,Dining Out
+2024-11-08,110,Water Bottle,Dining Out
+2024-11-08,240,Jio Parking,Car / Travel
+2024-11-08,326,Coffee,Food Delivery
+2024-11-08,293,Eggs,Grocery
+2024-11-08,467,Mato Mato,Food Delivery
+2024-11-08,777,Pizza Express,Food Delivery
+2024-11-09,326,Coffee,Food Delivery
+2024-11-09,1244,Mg Citrate,Healthcare
+2024-11-09,500,Einstein,Books
+2024-11-10,636,Swiggy Instamart,Housing
+2024-11-10,10000,Book shelf,Housing
+2024-11-10,624,Maiz,Food Delivery
+2024-11-10,568,Mato Mato,Food Delivery
+2024-11-11,623,Charcoal Eats,Food Delivery
+2024-11-11,326,Coffee,Food Delivery
+2024-11-11,333,Coffee,Food Delivery
+2024-11-11,2459,Comforter,Personal
+2024-11-11,464,Mato Mato,Food Delivery
+2024-11-12,345,Eggs,Grocery
+2024-11-12,326,Coffee,Food Delivery
+2024-11-12,537,Maiz,Food Delivery
+2024-11-12,311,Tea Third Wave,Food Delivery
+2024-11-12,267,Paneer,Grocery
+2024-11-12,677,Maiz,Food Delivery
+2024-11-13,326,Coffee,Food Delivery
+2024-11-13,474,Mato Mato,Food Delivery
+2024-11-13,242,Kebab,Food Delivery
+2024-11-14,326,Coffee,Food Delivery
+2024-11-14,712,Maiz,Food Delivery
+2024-11-14,12000,Book shelf,Housing
+2024-11-14,474,Mato Mato,Food Delivery
+2024-11-14,6291,"TMG, Omega",Healthcare
+2024-11-15,355,Coffee,Food Delivery
+2024-11-15,615,Movie,Entertainment
+2024-11-15,293,Eggs,Grocery
+2024-11-15,321,McD,Dining Out
+2024-11-15,304,Starbucks,Dining Out
+2024-11-15,650,Maiz,Food Delivery
+2024-11-16,326,Coffee,Food Delivery
+2024-11-16,70,Rickshaw,Car / Travel
+2024-11-16,50,Parking,Car / Travel
+2024-11-16,460,Coffee,Dining Out
+2024-11-16,1198,Plum,Personal
+2024-11-16,3246,Copper Chimney,Dining Out
+2024-11-16,471,Urban Tadka,Food Delivery
+2024-11-16,5762,Blood Tests Komal,Healthcare
+2024-11-16,1588,Pluckk,Grocery
+2024-11-17,326,Coffee,Food Delivery
+2024-11-17,649,Netflix,Entertainment
+2024-11-17,648,Airtel Viraj,Utilities
+2024-11-17,180,BigBasket,Grocery
+2024-11-17,2995,Colavita Oil,Grocery
+2024-11-17,4370,Nature's Basket,Grocery
+2024-11-17,989,Blabber,Dining Out
+2024-11-17,730,Maiz,Food Delivery
+2024-11-17,5091,Blood Tests Viraj,Healthcare
+2024-11-17,749,Apple Cloud,Personal
+2024-11-17,389,YT Premium,Entertainment
+2024-11-18,5100,Dashlane,Personal
+2024-11-18,5000,Door Cupboard,Housing
+2024-11-18,326,Coffee,Food Delivery
+2024-11-18,2591,Lakme,Personal
+2024-11-18,473,Paneer,Grocery
+2024-11-19,326,Coffee,Food Delivery
+2024-11-19,719,Maiz,Food Delivery
+2024-11-20,326,Coffee,Food Delivery
+2024-11-20,365,Blinkit,Grocery
+2024-11-20,1563,Book,Books
+2024-11-20,667,Uber,Car / Travel
+2024-11-20,470,Jimi Burger,Food Delivery
+2024-11-20,338,Third Wave,Food Delivery
+2024-11-20,407.73,Uber,Car / Travel
+2024-11-21,1886.82,Airtel Komal,Utilities
+2024-11-21,326,Coffee,Food Delivery
+2024-11-21,1121,Book,Books
+2024-11-21,830,Copper Chimney,Food Delivery
+2024-11-21,474,Mato Mato,Food Delivery
+2024-11-21,289,Uber,Car / Travel
+2024-11-22,326,Coffee,Food Delivery
+2024-11-23,326,Coffee,Food Delivery
+2024-11-23,683,Shanvi Game,Personal
+2024-11-23,573,Avocado Toast,Food Delivery
+2024-11-23,736,Maiz,Food Delivery
+2024-11-24,295,Eggs,Grocery
+2024-11-24,2046,Dinner,Dining Out
+2024-11-25,326,Coffee,Food Delivery
+2024-11-25,341,Upwas Misal,Food Delivery
+2024-11-25,502,Paneer,Grocery
+2024-11-25,1054,Pluckk,Grocery
+2024-11-26,89,Jio Cinema,Entertainment
+2024-11-26,449,Anki Pro,Personal
+2024-11-26,356,Coffee,Food Delivery
+2024-11-26,594,Blinkit,Grocery
+2024-11-26,4797.64,BigBasket,Grocery
+2024-11-26,502,Paneer,Grocery
+2024-11-27,1259,TMG,Healthcare
+2024-11-27,326,Coffee,Food Delivery
+2024-11-27,3919,Whey,Grocery
+2024-11-27,965,Swad Gharcha,Dining Out
+2024-11-28,326,Coffee,Food Delivery
+2024-11-28,471,Avocado Toast,Food Delivery
+2024-11-28,975,Swad Gharcha,Dining Out
+2024-11-29,326,Coffee,Food Delivery
+2024-11-29,502,Paneer,Grocery
+2024-11-29,1960,Petrol,Car / Travel
+2024-11-29,1120,Cou Cou,Dining Out
+2024-11-29,11760,Indian Accent,Dining Out
+2024-11-29,755,Cheese / Choc,Grocery
+2024-11-29,180,Parking,Car / Travel
+2024-11-30,336,Coffee,Food Delivery
+2024-11-30,1768.82,Jio,Utilities
+2024-11-30,647,Maiz,Food Delivery
+2024-12-01,336,Coffee,Food Delivery
+2024-12-01,354,Blinkit,Grocery
+2024-12-01,2000,Varad Ghansoli,Dining Out
+2024-12-01,805,Pluckk,Grocery
+2024-12-02,356,Coffee,Food Delivery
+2024-12-02,257,Rice,Grocery
+2024-12-02,502,Paneer,Grocery
+2024-12-02,340,Uber,Car / Travel
+2024-12-02,4118,Omega-3,Healthcare
+2024-12-03,326,Coffee,Healthcare
+2024-12-03,497,Book,Books
+2024-12-03,555,Swad Gharcha,Dining Out
+2024-12-03,119,Spotify,Entertainment
+2024-12-04,326,Coffee,Food Delivery
+2024-12-04,302,Eggs,Grocery
+2024-12-04,567,Swad Gharcha,Dining Out
+2024-12-05,326,Coffee,Food Delivery
+2024-12-05,13217,Insurnace Car,Car / Travel
+2024-12-05,40,Parking,Car / Travel
+2024-12-05,472,Aromas,Dining Out
+2024-12-05,170,Belgian Waffle,Dining Out
+2024-12-05,341,Burger,Dining Out
+2024-12-05,15020,Electricity - RH,Utilities
+2024-12-05,2370,Electricity - OM,Utilities
+2024-12-05,47000,Rent,Housing
+2024-12-05,510,Copper Chimney,Food Delivery
+2024-12-05,647,Maiz,Food Delivery
+2024-12-05,481,BigBasket,Grocery
+2024-12-06,326,Coffee,Food Delivery
+2024-12-06,1055,Aromas,Dining Out
+2024-12-06,60,Parking,Car / Travel
+2024-12-06,1030,Aromas,Dining Out
+2024-12-06,299,Starbucks,Dining Out
+2024-12-06,304,Starbucks,Dining Out
+2024-12-07,326,Coffee,Food Delivery
+2024-12-07,3000,Milk,Grocery
+2024-12-07,2000,Wooden Door,Housing
+2024-12-07,2746,Book,Books
+2024-12-07,945,Swad Gharcha,Dining Out
+2024-12-08,6500,Nayna,Maid
+2024-12-08,326,Coffee,Food Delivery
+2024-12-08,1161,Walk,Dining Out
+2024-12-08,735,Aromas,Dining Out
+2024-12-08,474,Mato Mato,Food Delivery
+2024-12-08,1161,Istrivala,Utilities
+2024-12-09,326,Coffee,Food Delivery
+2024-12-09,326,Coffee,Food Delivery
+2024-12-09,502,Paneer,Grocery
+2024-12-09,682,Ola,Car / Travel
+2024-12-09,380,Uber,Car / Travel
+2024-12-10,999,Swad Gharcha,Dining Out
+2024-12-10,2328,Blood Tests,Healthcare
+2024-12-10,295,Eggs,Grocery
+2024-12-11,326,Coffee,Food Delivery
+2024-12-11,335,Eggs,Grocery
+2024-12-11,635,Biryani,Food Delivery
+2024-12-12,1143,Pluckk,Grocery
+2024-12-12,326,Coffee,Food Delivery
+2024-12-12,556,Starters,Food Delivery
+2024-12-12,391,Paneer,Grocery
+2024-12-13,2298,TMG,Healthcare
+2024-12-13,100,Movie Food,Entertainment
+2024-12-13,216,McD,Dining Out
+2024-12-13,671,Movie Ticket,Entertainment
+2024-12-13,50,Parking,Car / Travel
+2024-12-13,909,Starbucks,Dining Out
+2024-12-13,523,Aromas,Food Delivery
+2024-12-14,50,Parking,Car / Travel
+2024-12-14,2070,Mirchi Mime,Dining Out
+2024-12-14,1594,Aromas,Dining Out
+2024-12-14,310,Waffle,Dining Out
+2024-12-14,2490,Shoes,Personal
+2024-12-14,625,Starbucks,Dining Out
+2024-12-15,812,Philomene,Food Delivery
+2024-12-15,299,Swiggy Black,Food Delivery
+2024-12-15,50,Haircut,Personal
+2024-12-15,365,Blinkit,Grocery
+2024-12-15,4785,Train Pass,Office
+2024-12-16,615,Movie,Entertainment
+2024-12-16,230,Tea Third Wave,Dining Out
+2024-12-16,420,Movie Food,Dining Out
+2024-12-16,472,Aromas,Dining Out
+2024-12-16,420,Bhagat Tarachand,Dining Out
+2024-12-16,60,Parking,Car / Travel
+2024-12-16,391,Paneer,Grocery
+2024-12-16,305,Starbucks,Dining Out
+2024-12-17,389,YT Premium,Entertainment
+2024-12-17,649,Netflix,Entertainment
+2024-12-17,648,Airtel Viraj,Utilities
+2024-12-17,1208,Aromas,Dining Out
+2024-12-17,40,Parking,Car / Travel
+2024-12-17,305,Starbucks,Dining Out
+2024-12-18,1191.8,Aromas,Dining Out
+2024-12-18,305,Starbucks,Dining Out
+2024-12-18,500,Car Wash,Car / Travel
+2024-12-18,5729,Magnesium,Healthcare
+2024-12-18,256,Coffee,Food Delivery
+2024-12-18,1312,Airline Ticket,Vacation
+2024-12-18,1312,Airline Ticket,Vacation
+2024-12-18,427,Airline Ticket,Vacation
+2024-12-18,1255,Mirchi Mime,Food Delivery
+2024-12-19,326,Coffee,Food Delivery
+2024-12-20,3027,BigBasket,Grocery
+2024-12-20,1571,Aromas,Dining Out
+2024-12-21,2370,Masks,Healthcare
+2024-12-21,2418,TMG,Healthcare
+2024-12-21,2500,Petrol,Car / Travel
+2024-12-21,60,Parking,Car / Travel
+2024-12-21,236,Tulsi,Food Delivery
+2024-12-21,6087,Shopper Stop,Personal
+2024-12-21,299,MamaEarth,Personal
+2024-12-21,899,Aromas,Dining Out
+2024-12-21,1008,Starbucks,Dining Out
+2024-12-21,200,Cookie,Dining Out
+2024-12-21,775,Irani Cafe,Dining Out
+2024-12-22,503,Keemah,Food Delivery
+2024-12-22,4215,Lakme,Personal
+2024-12-22,315,Bhurji,Food Delivery
+2024-12-22,197,Sev Puri,Food Delivery
+2024-12-23,1769,Jio,Utilities
+2024-12-23,326,Coffee,Food Delivery
+2024-12-23,725,Aromas,Food Delivery
+2024-12-23,287,Belgian Waffle,Food Delivery
+2024-12-23,496,Mato Mato,Food Delivery
+2024-12-23,661,Aromas,Food Delivery
+2024-12-24,50,Salon,Personal
+2024-12-24,295,Eggs,Grocery
+2024-12-24,175,Water Bottle,Vacation
+2024-12-24,909,Uber,Vacation
+2024-12-24,332,Ola,Vacation
+2024-12-26,16357,Marriott,Vacation
+2024-12-26,607,Ola,Vacation
+2024-12-26,607,Ola,Vacation
+2024-12-28,341,Ola,Vacation
+2024-12-28,170,Lunch,Vacation
+2024-12-28,368,Lunch,Vacation
+2024-12-29,760,Uber,Vacation
+2024-12-29,410,Starbucks,Vacation
+2024-12-30,260,Biscuits,Vacation
+2024-12-30,1292,Cab,Vacation
+2024-12-30,991,Cab,Vacation
+2024-12-30,7758,Taj,Vacation
+2024-12-30,275,Dosa,Vacation
+2024-12-30,675,Breakfast,Vacation
+2024-12-30,1860,Aromas,Dining Out
+2024-12-30,465,Prawns King,Food Delivery
+2024-12-31,1565,Petrol,Car / Travel
+2024-12-31,16000,New Year,Vacation
+2025-01-02,391,Paneer,Grocery
+2025-01-02,1153,Swiggy,Food Delivery
+2025-01-02,259,Rice,Grocery
+2025-01-02,822,Pluckk,Grocery
+2025-01-02,1968,Gas,Utilities
+2025-01-02,13230,Electricity,Utilities
+2025-01-03,236,Coffee,Food Delivery
+2025-01-03,4999,Finance Conference,Trading
+2025-01-03,25339,Phone,Personal
+2025-01-03,1012,Aromas,Dining Out
+2025-01-03,10240,Doctor,Healthcare
+2025-01-04,50,Parking,Car / Travel
+2025-01-04,9784,Supplements,Healthcare
+2025-01-04,304,Starbucks,Dining Out
+2025-01-04,47000,Rent,Housing
+2025-01-04,6480,Bayroute,Dining Out
+2025-01-04,1480,Petrol,Car / Travel
+2025-01-05,304,Coffee,Food Delivery
+2025-01-05,99,Prime Movie,Entertainment
+2025-01-05,1736,Pizza Express,Dining Out
+2025-01-05,2143,Copper Chimney,Dining Out
+2025-01-05,70,Parking,Car / Travel
+2025-01-05,653,Movie,Entertainment
+2025-01-05,900,Twitter,Personal
+2025-01-06,304,Coffee,Food Delivery
+2025-01-06,300,Uber,Car / Travel
+2025-01-06,1736,Medicines,Healthcare
+2025-01-06,405,Swiggy,Food Delivery
+2025-01-06,1418,Swiggy,Food Delivery
+2025-01-06,8500,Nayna,Maid
+2025-01-07,268,Blinkit,Grocery
+2025-01-07,3745,Nature Basket,Grocery
+2025-01-07,580,Movie Food,Entertainment
+2025-01-07,392,Movie,Entertainment
+2025-01-07,2418,Supplements,Healthcare
+2025-01-08,967,Swad Gharcha,Dining Out
+2025-01-08,254,Starbucks,Food Delivery
+2025-01-08,391,Paneer,Grocery
+2025-01-09,254,Starbucks,Food Delivery
+2025-01-09,2650,Lakme,Personal
+2025-01-09,1111,Aromas,Dining Out
+2025-01-10,304,Starbucks,Food Delivery
+2025-01-10,287,Eggs,Grocery
+2025-01-10,357,Dahi & Eggs,Grocery
+2025-01-11,951,Swiggy,Food Delivery
+2025-01-11,970,Jimi Burger,Dining Out
+2025-01-12,304,Starbucks,Food Delivery
+2025-01-12,389,YT Premium,Entertainment
+2025-01-12,750,Pizza Express,Food Delivery
+2025-01-12,999,Swiggy,Food Delivery
+2025-01-12,648,Airtel Viraj,Utilities
+2025-01-12,1938,Copper Chimney,Food Delivery
+2025-01-12,440,Uber,Car / Travel
+2025-01-13,649,Netflix,Entertainment
+2025-01-13,529,Blinkit,Grocery
+2025-01-14,304,Coffee,Food Delivery
+2025-01-14,2550,Forest Essentials,Personal
+2025-01-14,244,Print Out,Personal
+2025-01-14,732,Nature Basket,Grocery
+2025-01-14,615,Aromas,Dining Out
+2025-01-14,653,Pizza Express,Dining Out
+2025-01-15,304,Coffee,Food Delivery
+2025-01-15,502,Paneer,Grocery
+2025-01-16,356,Coffee,Food Delivery
+2025-01-16,941,Swad Gharcha,Dining Out
+2025-01-16,775,Sandals,Personal
+2025-01-17,1823,Uber,Car / Travel
+2025-01-17,2358,KLHB,Dining Out
+2025-01-18,1800,Dinner,Dining Out
+2025-01-18,1000,Blinkit,Grocery
+2025-01-19,1472,Dinner,Dining Out
+2025-01-20,682,Lunch,Dining Out
+2025-01-20,304,Starbucks,Food Delivery
+2025-01-21,356,Starbucks,Food Delivery
+2025-01-21,2276,Grocery,Grocery
+2025-01-22,715,Swiggy,Food Delivery
+2025-01-22,1444,Dinner,Dining Out
+2025-01-23,304,Coffee,Food Delivery
+2025-01-23,3268,Jio,Utilities
+2025-01-23,473,Paneer,Grocery
+2025-01-23,2348,ALA supplement,Healthcare
+2025-01-24,3261,BigBasket,Grocery
+2025-01-24,1422,Medicines,Healthcare
+2025-01-24,287,Blinkit,Grocery
+2025-01-24,721,Movie,Entertainment
+2025-01-24,304,Coffee,Food Delivery
+2025-01-24,850,Aromas,Dining Out
+2025-01-24,70,Parking,Car / Travel
+2025-01-25,304,Coffee,Food Delivery
+2025-01-25,1269,Licious,Grocery
+2025-01-25,480,Blinkit,Grocery
+2025-01-26,304,Coffee,Food Delivery
+2025-01-26,2482,Why Math,Books
+2025-01-26,2944,Trading View,Trading
+2025-01-26,772,Mallow,Dining Out
+2025-01-27,1500,Grocery,Dining Out
+2025-01-28,1000,Swiggy,Food Delivery
+2025-01-29,304,Coffee,Food Delivery
+2025-01-29,587,Blinkit,Grocery
+2025-01-29,637,Licious,Grocery
+2025-01-30,3901,Airtel,Utilities
+2025-01-30,1285,Chocolates,Grocery
+2025-01-30,304,Coffee,Food Delivery
+2025-01-31,660,Coffee,Food Delivery
+2025-01-31,3939,Nature Basket,Grocery
+2025-01-31,772,Lunch,Dining Out
+2025-02-01,304,Coffee,Food Delivery
+2025-02-01,1000,Swad Gharcha,Dining Out
+2025-02-02,304,Coffee,Food Delivery
+2025-02-02,647,Maiz,Food Delivery
+2025-02-02,2498,TMG,Healthcare
+2025-02-02,671,Swiggy,Food Delivery
+2025-02-03,304,Coffee,Food Delivery
+2025-02-03,391,Paneer,Grocery
+2025-02-03,289,Eggs,Grocery
+2025-02-03,302,Coffee,Food Delivery
+2025-02-04,304,Coffee,Food Delivery
+2025-02-04,5879,Whey,Grocery
+2025-02-04,754,Licious,Grocery
+2025-02-04,11100,Electricity,Utilities
+2025-02-04,1115,Blinkit,Grocery
+2025-02-05,304,Coffee,Food Delivery
+2025-02-05,47000,Rent,Housing
+2025-02-05,642,Maiz,Food Delivery
+2025-02-06,304,Coffee,Food Delivery
+2025-02-06,305,Coffee,Dining Out
+2025-02-06,638,Maiz,Dining Out
+2025-02-07,800,Licious,Grocery
+2025-02-07,10000,Mom,Utilities
+2025-02-07,88157,Flights + Hotel,Vacation
+2025-02-07,305,Coffee,Dining Out
+2025-02-08,305,Coffee,Dining Out
+2025-02-08,738,Maiz,Food Delivery
+2025-02-09,305,Starbucks,Food Delivery
+2025-02-09,2945,Supplements,Healthcare
+2025-02-09,2600,Swiggy,Food Delivery
+2025-02-09,906,Swiggy,Food Delivery
+2025-02-09,13708,Viator,Vacation
+2025-02-10,1500,Starbucks App,Dining Out
+2025-02-10,622,Maiz,Food Delivery
+2025-02-10,311,Blinkit,Grocery
+2025-02-10,552,Medicines,Healthcare
+2025-02-10,284,Starbucks,Food Delivery
+2025-02-12,4345,Forest Essentials,Personal
+2025-02-12,389,YT Premium,Entertainment
+2025-02-12,1000,Swad Gharcha,Dining Out
+2025-02-12,674,Pluckk,Grocery
+2025-02-13,1510,Manam,Grocery
+2025-02-13,717,Swiggy,Food Delivery
+2025-02-13,967,Swad Gharcha,Dining Out
+2025-02-14,4065,BigBasket,Grocery
+2025-02-14,772,Mallow,Dining Out
+2025-02-15,2590,Supplements,Healthcare
+2025-02-15,2500,Starbucks,Dining Out
+2025-02-15,289,Blinkit,Grocery
+2025-02-15,2483,Copper Chimney,Dining Out
+2025-02-15,749,Komal Lifestyle,Personal
+2025-02-15,1179,Komal Lifestyle,Personal
+2025-02-15,6995,Komal Hastakala,Personal
+2025-02-16,584,Starbucks,Food Delivery
+2025-02-16,649,Netflix,Entertainment
+2025-02-16,10000,Apple Pay,Personal
+2025-02-16,269,Blinkit,Grocery
+2025-02-16,686,Maiz,Food Delivery
+2025-02-16,8155,Komal Lakme,Personal
+2025-02-16,458,Swiggy,Food Delivery
+2025-02-16,612,Lunch,Dining Out
+2025-02-17,1000,Swiggy,Food Delivery
+2025-02-18,885,Swiggy,Food Delivery
+2025-02-18,220,Uber,Car / Travel
+2025-02-18,622,Maiz,Food Delivery
+2025-02-19,955,Swad Gharcha,Dining Out
+2025-02-19,2500,Starbucks,Dining Out
+2025-02-19,2100,Lakme,Personal
+2025-02-19,700,Mallow,Dining Out
+2025-02-19,700,Swiggy Instamart,Grocery
+2025-02-21,270,Blinkit,Grocery
+2025-02-21,1200,Third Wave,Dining Out
+2025-02-21,2597,Komal Clothes,Personal
+2025-02-21,599,Komal Clothes,Personal
+2025-02-21,8500,Nayna,Maid
+2025-02-21,909,Komal Clothes,Personal
+2025-02-21,746,Aromas,Dining Out
+2025-02-28,125000,Malaysia,Vacation
+2025-03-03,284,Coffee,Food Delivery
+2025-03-03,1886,Komal Airtel,Utilities
+2025-03-03,15630,Electricity,Utilities
+2025-03-03,972,Gas,Utilities
+2025-03-03,4865,Omega,Healthcare
+2025-03-03,1944,Supplements,Healthcare
+2025-03-03,708,Gaurav,Personal
+2025-03-03,289,Eggs,Grocery
+2025-03-03,2971,Dinner,Dining Out
+2025-03-04,805,Licious,Grocery
+2025-03-04,683,Swiggy,Food Delivery
+2025-03-04,712,Swiggy,Food Delivery
+2025-03-04,637,Swiggy,Food Delivery
+2025-03-04,297,Swiggy,Food Delivery
+2025-03-05,47000,Rent,Housing
+2025-03-05,1850,Supplements,Healthcare
+2025-03-05,416,Paneer,Grocery
+2025-03-06,1510,Manam,Grocery
+2025-03-07,5000,Gift,Personal
+2025-03-07,2000,Petrol,Car / Travel
+2025-03-07,4600,Tshirt,Personal
+2025-03-08,276,Coffee,Food Delivery
+2025-03-08,850,Movie,Entertainment
+2025-03-08,420,Movie,Entertainment
+2025-03-08,2136,Petrol,Car / Travel
+2025-03-08,1795,Mositurizer,Personal
+2025-03-08,1675,Book,Books
+2025-03-08,70,Parking,Car / Travel
+2025-03-08,5999,AQI Monitor,Housing
+2025-03-09,60,Parking,Car / Travel
+2025-03-09,1831,Copper Chimney,Dining Out
+2025-03-09,1200,Third Wave,Dining Out
+2025-03-09,289,Eggs,Grocery
+2025-03-09,349,Pore strips,Personal
+2025-03-09,4318,BigBasket,Grocery
+2025-03-09,8000,Pluckk,Grocery
+2025-03-11,2500,Swiggy,Dining Out
+2025-03-12,5366,Airtel,Utilities
+2025-03-12,1000,Swiggy,Food Delivery
+2025-03-12,525,Blinkit,Grocery
+2025-03-13,32507,Health Insuramce,Insurance
+2025-03-13,850,Licious,Grocery
+2025-03-13,284,Coffee,Food Delivery
+2025-03-13,709,Maiz,Food Delivery
+2025-03-14,378,Coffee,Food Delivery
+2025-03-14,847,Blinkit,Grocery
+2025-03-14,372,Instamart,Grocery
+2025-03-15,10000,Tresind + Cou,Dining Out
+2025-03-15,414,Block Site,SaaS
+2025-03-15,232,Coffee,Food Delivery
+2025-03-15,437,Instamart,Grocery
+2025-03-15,1132,Movie,Entertainment
+2025-03-15,5443,Pragmatic,SaaS
+2025-03-16,1000,Swad Gharcha,Dining Out
+2025-03-16,550,Swiggy,Food Delivery
+2025-03-16,389,YT Premium,Entertainment
+2025-03-16,649,Netflix,Entertainment
+2025-03-16,8500,Nayna,Maid
+2025-03-16,749,icloud,Utilities
+2025-03-16,670,Lunch,Dining Out
+2025-03-17,150,Parking,Car / Travel
+2025-03-17,1848,Cou Cou,Dining Out
+2025-03-17,318,Swiggy,Food Delivery
+2025-03-18,2598,TMG,Healthcare
+2025-03-18,1333,Swiggy,Food Delivery
+2025-03-19,2364,Swiggy,Food Delivery
+2025-03-24,39805,Mom Insurance,Insurance
+2025-03-24,1541,Swiggy,Food Delivery
+2025-03-24,772,Mallow,Dining Out
+2025-03-25,976,Swiggy,Food Delivery
+2025-03-26,924,Swiggy,Food Delivery
+2025-03-26,900,Proton VPN,SaaS
+2025-03-27,306,Swiggy,Food Delivery
+2025-03-27,312,Swiggy,Food Delivery
+2025-03-27,25000,German Class,Personal
+2025-03-27,483,Pizza Express,Food Delivery
+2025-03-27,471,Blinkit,Grocery
+2025-03-28,1220,Swiggy,Food Delivery
+2025-03-28,235,Blinkit,Grocery
+2025-03-29,1275,Food,Dining Out
+2025-03-29,1768.82,Jio,Utilities
+2025-03-29,938,Swiggy,Food Delivery
+2025-03-29,5426,Komal Airtel,Utilities
+2025-03-29,6999,Supplements,Healthcare
+2025-03-30,2961,Dinner,Dining Out
+2025-03-30,1762,Swiggy,Food Delivery
+2025-03-30,316,Swiggy,Food Delivery
+2025-03-31,290,Blinkit,Grocery
+2025-03-31,1581,Swiggy,Food Delivery
+2025-03-31,16879,Amazon,Personal
+2025-04-01,1310,Swiggy,Food Delivery
+2025-04-01,308,Instamart,Grocery
+2025-04-02,199,Book,Books
+2025-04-02,1571,Book,Books
+2025-04-02,144,BigBasket,Grocery
+2025-04-03,1988,Swiggy,Food Delivery
+2025-04-03,611,Blinkit,Grocery
+2025-04-04,1947,Amazon,Grocery
+2025-04-04,392,Instamart,Grocery
+2025-04-05,11799,Grammarly,SaaS
+2025-04-04,772,Mallow,Dining Out
+2025-04-04,11830,Lakme,Personal
+2025-04-04,1196,Swiggy,Food Delivery
+2025-04-05,47000,Rent,Housing
+2025-04-05,12130,Electricity,Utilities
+2025-04-05,603,Book,Books
+2025-04-05,100,Fastag,Car / Travel
+2025-04-05,150,Parking,Car / Travel
+2025-04-05,1935,Cou Cou,Dining Out
+2025-04-05,16979,Masque,Dining Out
+2025-04-05,347,Swiggy,Food Delivery
+2025-04-06,351,Amazon,Grocery
+2025-04-06,568,Swiggy,Food Delivery
+2025-04-06,2330,Food,Dining Out
+2025-04-06,257,Instamart,Grocery
+2025-04-06,70,Parking,Car / Travel
+2025-04-07,4420,Omega,Healthcare
+2025-04-07,1285,Food,Dining Out
+2025-04-07,663,Swiggy,Food Delivery
+2025-04-07,294,Instamart,Grocery
+2025-04-07,363,Zomato,Food Delivery
+2025-04-08,1013,Swad Gharcha,Dining Out
+2025-04-08,2188,Swiggy,Food Delivery
+2025-04-09,670,Poetry,Dining Out
+2025-04-09,2412,Amazon,Grocery
+2025-04-09,996,Swiggy,Food Delivery
+2025-04-10,2000,Starbucks,Dining Out
+2025-04-10,1474,Si Nonna,Dining Out
+2025-04-10,957,Swiggy,Food Delivery
+2025-04-11,1638,Books,Books
+2025-04-11,632,Swiggy,Food Delivery
+2025-04-11,1566,Si Nonna,Dining Out
+2025-04-12,1128,Si Nonna,Dining Out
+2025-04-12,347,Swiggy,Food Delivery
+2025-04-13,1578,Swiggy,Food Delivery
+2025-04-13,500,Si Nonna,Dining Out
+2025-04-13,500,Si Nonna,Dining Out
+2025-04-14,2660,Amazon,Healthcare
+2025-04-14,2322,Uber,Car / Travel
+2025-04-14,680,Instamart,Grocery
+2025-04-14,1495,Swiggy,Food Delivery
+2025-04-15,670,Poetry LC,Dining Out
+2025-04-15,825,Laundry,Utilities
+2025-04-15,918,Swiggy,Food Delivery
+2025-04-16,2078,Hardeep,Dining Out
+2025-04-17,958,Licious,Grocery
+2025-04-17,957,Swiggy,Food Delivery
+2025-04-17,1698,Book,Books
+2025-04-18,2025,Supplements,Healthcare
+2025-04-18,23900,Airpods,Personal
+2025-04-18,120,Medicines,Healthcare
+2025-04-18,1013,Medicines,Healthcare
+2025-04-18,773,Swiggy,Food Delivery
+2025-04-18,846,Swiggy,Grocery
+2025-04-19,1980,Swiggy,Food Delivery
+2025-04-19,459,Swiggy,Grocery
+2025-04-20,880,Tea,Grocery
+2025-04-20,1451,Swiggy,Food Delivery
+2025-04-20,392,Swiggy,Grocery
+2025-04-20,1742,Zomato,Food Delivery
+2025-04-21,3763,Urban Company,Housing
+2025-04-21,3860,Zomato,Food Delivery
+2025-04-21,1000,Car Washing,Car / Travel
+2025-04-22,5158,BigBasket,Grocery
+2025-04-22,345,Zomato,Food Delivery
+2025-04-22,917,Instamart,Grocery
+2025-04-23,825,Laundry,Utilities
+2025-04-23,1001,Swad Gharcha,Dining Out
+2025-04-23,345,Zomato,Food Delivery
+2025-04-23,294,Instamart,Grocery
+2025-04-23,972,Chocolate,Grocery
+2025-04-24,4500,Zomato,Food Delivery
+2025-04-24,418,Instamart,Grocery
+2025-04-24,633,Blinkit,Grocery
